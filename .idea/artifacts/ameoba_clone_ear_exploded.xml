@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ameoba_clone:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ameoba_clone_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ameoba_clone/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
